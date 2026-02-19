@@ -59,6 +59,8 @@ The system:
 - Gunicorn
 - Render (Deployment)
 
+##  📸 Preview
+<img width="1882" height="965" alt="Screenshot 2026-02-19 152622" src="https://github.com/user-attachments/assets/16d202ee-9046-4049-834c-189d063e1b06" />
 
 
 
