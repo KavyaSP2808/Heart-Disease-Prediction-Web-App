@@ -6,7 +6,7 @@ A Machine Learning based web application that predicts the risk of heart disease
 
 ## 🚀 Live Demo
 
-🔗 Live App: https://heart-disease-prediction-web-app-2.onrender.com
+🔗 Live App: (https://heart-disease-prediction-web-app-1.onrender.com)
 
 
 
@@ -58,6 +58,7 @@ The system:
 - CSS
 - Gunicorn
 - Render (Deployment)
+
 
 
 
