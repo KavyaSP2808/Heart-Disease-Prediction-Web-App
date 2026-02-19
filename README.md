@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction Web App
+#  Heart Disease Prediction Web App
 
 A Machine Learning based web application that predicts the risk of heart disease using medical parameters.
 
@@ -59,6 +59,7 @@ The system:
 - CSS
 - Gunicorn
 - Render (Deployment)
+
 
 
 
