@@ -6,8 +6,7 @@ A Machine Learning based web application that predicts the risk of heart disease
 
 ## 🚀 Live Demo
 
-🔗 Live App: https://your-app-name.onrender.com  
-(Replace with your actual Render link)
+🔗 Live App: https://heart-disease-prediction-web-app-2.onrender.com
 
 
 
